@@ -433,9 +433,22 @@ p {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+.min-h-90 {
+  min-height: 90vh;
+}
+.bg-cover {
+  background-size: cover;
+}
+.bg-center {
+  background-position: center;
+}
+.p-5p {
+  padding: 5%;
+}
 
 
 /* ----------- Default Styles to apply to the whole project  --------- */
 
 
 /* ----------- ADDITIONAL COMPONENTS  --------- */
+
